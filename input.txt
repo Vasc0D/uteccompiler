@@ -1,0 +1,5 @@
+fun void main()
+  for(i=0;i<400;i++) {
+    a[x*y] += i;
+  }
+endfun
