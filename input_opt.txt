@@ -1,6 +1,1 @@
-fun void main()
-  _hoist_0 = x*y;  // hoisted invariant
-  for(i=0;i<400;i++) {
-    a[_hoist_0] += i;
-  }
-endfun
+c = 17
